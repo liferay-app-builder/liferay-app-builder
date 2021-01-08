@@ -16,7 +16,7 @@ knowledge:
 
 - Backend: [@gabrielwas][3], [@jeyvison][4].
 - Designers: [@fapires][9], [@victorctrl][10].
-- Frontend: [@interaminense][5], [@kevenleone][6], [@rebsilva][7].
+- Frontend: [@interaminense][5], [@kevenleone][6], [@rebsilva][7], [@MateusCastro][14]
 - Project Manager: [@tayannasotero][13]
 - Product Manager: [@matheus-xavier][11]
 - Product Owner: [@luiz-jardim][12]
@@ -37,3 +37,4 @@ Note: For a better communication, reach us directly on Slack. Also, check our ch
 [11]: https://github.com/matheus-xavier
 [12]: https://github.com/luiz-jardim
 [13]: https://github.com/tayannasotero
+[14]: https://github.com/MateusCastro
